@@ -4,7 +4,7 @@ XJTU-SY bearing datasets are provided by the Institute of Design Science and Bas
 
 The datasets contain complete run-to-failure data of 15 rolling element bearings that were acquired by conducting many accelerated degradation experiments. These datasets are publicly available and anyone can use them to validate prognostics algorithms of rolling element bearings. Publications making use of the XJTU-SY bearing datasets are requested to cite the following paper.
 
-_Biao Wang, Yaguo Lei, Naipeng Li, Ningbo Li, “A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings”, IEEE Transactions on Reliability, pp. 1-12, 2018. DOI: 10.1109/TR.2018.2882682._
+_Biao Wang, Yaguo Lei, Naipeng Li, Ningbo Li, “A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings”, IEEE Transactions on Reliability, vol. 69, no. 1, pp. 401-412, 2020. DOI: 10.1109/TR.2018.2882682._
 
 
 **XJTU-SY bearing datasets can be downloaded by one of the following links:**  
