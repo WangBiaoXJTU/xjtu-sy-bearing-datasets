@@ -8,7 +8,7 @@ _Biao Wang, Yaguo Lei, Naipeng Li, Ningbo Li, “A Hybrid Prognostics Approach f
 
 
 **XJTU-SY bearing datasets can be downloaded by one of the following links:**  
-&dArr; **My Website: **  
+&dArr; **My Website:**  
 http://biaowang.tech/xjtu-sy-bearing-datasets
 
 &dArr; **Google Drive:**  
