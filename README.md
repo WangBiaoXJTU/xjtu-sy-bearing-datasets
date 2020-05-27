@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## XJTU-SY Bearing Datasets
 
-You can use the [editor on GitHub](https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+XJTU-SY bearing datasets are provided by the Institute of Design Science and Basic Component at Xi’an Jiaotong University (XJTU), Shaanxi, P.R. China (http://gr.xjtu.edu.cn/web/yaguolei) and the Changxing Sumyoung Technology Co., Ltd. (SY), Zhejiang, P.R. China (https://www.sumyoungtech.com.cn).  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The datasets contain complete run-to-failure data of 15 rolling element bearings that were acquired by conducting many accelerated degradation experiments. These datasets are publicly available and anyone can use them to validate prognostics algorithms of rolling element bearings. Publications making use of the XJTU-SY bearing datasets are requested to cite the following paper.
 
-### Markdown
+_Biao Wang, Yaguo Lei, Naipeng Li, Ningbo Li, “A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings”, IEEE Transactions on Reliability, pp. 1-12, 2018. DOI: 10.1109/TR.2018.2882682._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**XJTU-SY bearing datasets can be downloaded by one of the following links:**  
+&dArr; **My Website: **  
+http://biaowang.tech/xjtu-sy-bearing-datasets
 
-# Header 1
-## Header 2
-### Header 3
+&dArr; **Google Drive:**  
+https://drive.google.com/open?id=1_ycmG46PARiykt82ShfnFfyQsaXv3_VK
 
-- Bulleted
-- List
+&dArr; **Dropbox:**  
+https://www.dropbox.com/sh/qka3b73wuvn5l7a/AADr6oXKbafhOlrBLCNgonzua?dl=0
 
-1. Numbered
-2. List
+&dArr; **MediaFire:**  
+http://www.mediafire.com/folder/m3sij67rizpb4/XJTU-SY_Bearing_Datasets
 
-**Bold** and _Italic_ and `Code` text
+&dArr; **MEGA:**  
+https://mega.nz/#F!H7pnGKBK!PR8qUShaLlJjwrPf3SlBjw
 
-[Link](url) and ![Image](src)
-```
+&dArr; **Baidu Netdisk:**  
+https://pan.baidu.com/s/1OaY82azTXHBwjiCjA_jRcw
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions, do not hesitate to contact:  
+_Mr. Biao Wang, wangbiaoxjtu@outlook.com_
