@@ -6,7 +6,7 @@ The datasets contain complete run-to-failure data of 15 rolling element bearings
 
 _Biao Wang, Yaguo Lei, Naipeng Li, Ningbo Li, “A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings”, IEEE Transactions on Reliability, vol. 69, no. 1, pp. 401-412, 2020. DOI: 10.1109/TR.2018.2882682._
 
-
+  
 **XJTU-SY bearing datasets can be downloaded by one of the following links:**  
 &dArr; **My Website:**  
 http://biaowang.tech/xjtu-sy-bearing-datasets
