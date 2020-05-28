@@ -8,22 +8,22 @@ The datasets contain complete run-to-failure data of 15 rolling element bearings
 
   
 **XJTU-SY bearing datasets can be downloaded by one of the following links:**  
-:cloud: **My Website:**  
+:airplane:  **My Website:**  
 [http://biaowang.tech/xjtu-sy-bearing-datasets](http://biaowang.tech/xjtu-sy-bearing-datasets)
 
-&dArr; **Google Drive:**  
+:cloud:  **Google Drive:**  
 [https://drive.google.com/open?id=1_ycmG46PARiykt82ShfnFfyQsaXv3_VK](https://drive.google.com/open?id=1_ycmG46PARiykt82ShfnFfyQsaXv3_VK)
 
-&dArr; **Dropbox:**  
+:cloud:  **Dropbox:**  
 [https://www.dropbox.com/sh/qka3b73wuvn5l7a/AADr6oXKbafhOlrBLCNgonzua?dl=0](https://www.dropbox.com/sh/qka3b73wuvn5l7a/AADr6oXKbafhOlrBLCNgonzua?dl=0)
 
-&dArr; **MediaFire:**  
+:cloud:  **MediaFire:**  
 [http://www.mediafire.com/folder/m3sij67rizpb4/XJTU-SY_Bearing_Datasets](http://www.mediafire.com/folder/m3sij67rizpb4/XJTU-SY_Bearing_Datasets)
 
-&dArr; **MEGA:**  
+:cloud:  **MEGA:**  
 [https://mega.nz/#F!H7pnGKBK!PR8qUShaLlJjwrPf3SlBjw](https://mega.nz/#F!H7pnGKBK!PR8qUShaLlJjwrPf3SlBjw)
 
-&dArr; **Baidu Netdisk:**  
+:cloud:  **Baidu Netdisk:**  
 [https://pan.baidu.com/s/1OaY82azTXHBwjiCjA_jRcw](https://pan.baidu.com/s/1OaY82azTXHBwjiCjA_jRcw)
 
 **If you have any questions or suggestions, do not hesitate to contact:  
