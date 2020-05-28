@@ -8,7 +8,7 @@ The datasets contain complete run-to-failure data of 15 rolling element bearings
 
   
 **XJTU-SY bearing datasets can be downloaded by one of the following links:**  
-&spades;  **My Website:**  
+&hArr;  **My Website:**  
 [http://biaowang.tech/xjtu-sy-bearing-datasets](http://biaowang.tech/xjtu-sy-bearing-datasets)
 
 :cloud:  **Google Drive:**  
