@@ -26,5 +26,5 @@ The datasets contain complete run-to-failure data of 15 rolling element bearings
 &dArr;  **Baidu Netdisk:**  
 [https://pan.baidu.com/s/1OaY82azTXHBwjiCjA_jRcw](https://pan.baidu.com/s/1OaY82azTXHBwjiCjA_jRcw)
 
-**If you have any questions or suggestions, do not hesitate to contact:  
-_Mr. Biao Wang, wangbiaoxjtu@outlook.com_**
+**<font color=Blue> If you have any questions or suggestions, do not hesitate to contact:  
+_Mr. Biao Wang, wangbiaoxjtu@outlook.com_</font>**
